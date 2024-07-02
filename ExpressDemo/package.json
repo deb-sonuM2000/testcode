@@ -1,0 +1,19 @@
+{
+  "name": "expressdemo",
+  "version": "1.0.0",
+  "description": "here discuss express code",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "Sonu M",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "mongodb": "^4.14.0",
+    "morgan": "^1.10.0"
+  }
+}

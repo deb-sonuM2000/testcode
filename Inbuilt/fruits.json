@@ -1,0 +1,23 @@
+
+[
+          {
+           "name":"Apple",
+           "color": "Red",
+           "price":265
+          },
+          {
+                    "name":"Banana",
+                    "color":"Yellow",
+                    "price":100
+          },
+          {
+                    "name":"Cucumber",
+                    "color":"Green",
+                    "price":50
+          },
+          {
+                    "name":"Grapes",
+                    "color":"Black",
+                    "price":150
+          }
+]
